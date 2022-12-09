@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Jules.
-- 👀 I’m interested in DAOs, NFTs and crypto economics 
 - 🌱 I’m currently learning Java Script 
-- 💞️ I’m looking to collaborate on building a media DAO for the social startup amrand.at 
 - 📫 How to reach me ju.pabst@gmail.com
 
 <!---
